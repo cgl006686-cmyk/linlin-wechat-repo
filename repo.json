@@ -1,0 +1,23 @@
+{
+  "name": "霖霖签的私人微信多开源",
+  "identifier": "com.linlin.wechat.multi.source",
+  "sourceURL": "https://raw.githubusercontent.com/cgl006686-cmyk/linlin-wechat-repo/main/repo.json",
+  "unlockURL": "https://raw.githubusercontent.com/cgl006686-cmyk/linlin-wechat-repo/main/repo.json",
+  "sourceicon": "https://dd7.actnbb.xyz/file/image/69b4327569532.jpeg",
+  "payURL": "",
+  "apps": [
+    {
+      "name": "多开8060",
+      "type": "1986296221295185920",
+      "version": "此版本插件齐全",
+      "versionDate": "2026-03-14 12:01:09",
+      "versionDescription": "◎比较稳定 插件齐全 视频号可能闪退\r\n◎不想删微信就选多开",
+      "lock": "0",
+      "downloadURL": "https://wp.letui.xyz/d/%E8%BD%AF%E4%BB%B6/%E6%96%B0/8060%E5%9B%B0%E7%A2%8E%E8%9B%8B%E7%A8%B3%E5%AE%9A%E5%A4%9A%E5%BC%80.ipa?sign=Ap8aliv5hg8lkVLtAwUenGvU2NtBNIgVVqVB0cETSA8=:0",
+      "iconURL": "https://dd7.actnbb.xyz/file/image/697b6ce2bdd86.jpeg",
+      "size": "407896064",
+      "is_open_time_lock": false
+    },
+    // ... 其他 apps 内容一样，复制完整 JSON（从上一条消息复制全部 apps 数组）
+  ]
+}
